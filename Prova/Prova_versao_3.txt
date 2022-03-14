@@ -1,0 +1,68 @@
+Nome:
+
+Data:
+
+Período:
+
+			Quiz - Estados e Capitais (Versão 3)
+
+1. Qual é a capital do(e) Piauí (PI)?
+	A. Belém
+	B. São Luís
+	C. Vitória
+	D. Rio de Janeiro
+	E. Belo Horizonte
+	F. São Paulo
+	G. Teresina
+	H. João Pessoa
+
+2. Qual é a capital do(e) Sergipe (SE)?
+	A. Aracaju
+	B. Palmas
+	C. Curitiba
+	D. Goiânia
+	E. Belém
+	F. Porto Alegre
+	G. São Luís
+	H. Cuiabá
+
+3. Qual é a capital do(e) Amapá (AP)?
+	A. São Luís
+	B. João Pessoa
+	C. Rio de Janeiro
+	D. Rio Branco
+	E. Goiânia
+	F. São Paulo
+	G. Macapá
+	H. Vitória
+
+4. Qual é a capital do(e) Espírito Santo (ES)?
+	A. Brasília
+	B. Campo Grande
+	C. Maceió
+	D. Vitória
+	E. Palmas
+	F. Manaus
+	G. Porto Velho
+	H. São Paulo
+
+5. Qual é a capital do(e) Ceará (CE)?
+	A. Teresina
+	B. Recife
+	C. Fortaleza
+	D. Macapá
+	E. Natal
+	F. Brasília
+	G. Belo Horizonte
+	H. Rio de Janeiro
+
+6. Qual é a capital do(e) Roraima (RR)?
+	A. Macapá
+	B. Fortaleza
+	C. Boa Vista
+	D. Porto Alegre
+	E. Belém
+	F. São Luís
+	G. Aracaju
+	H. Natal
+

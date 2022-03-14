@@ -1,0 +1,68 @@
+Nome:
+
+Data:
+
+Período:
+
+			Quiz - Estados e Capitais (Versão 5)
+
+1. Qual é a capital do(e) Espírito Santo (ES)?
+	A. São Paulo
+	B. Brasília
+	C. Manaus
+	D. Vitória
+	E. Porto Velho
+	F. Campo Grande
+	G. Maceió
+	H. Palmas
+
+2. Qual é a capital do(e) Roraima (RR)?
+	A. Macapá
+	B. Porto Alegre
+	C. São Luís
+	D. Belém
+	E. Boa Vista
+	F. Natal
+	G. Fortaleza
+	H. Aracaju
+
+3. Qual é a capital do(e) Ceará (CE)?
+	A. Macapá
+	B. Fortaleza
+	C. Natal
+	D. Teresina
+	E. Rio de Janeiro
+	F. Brasília
+	G. Recife
+	H. Belo Horizonte
+
+4. Qual é a capital do(e) Amapá (AP)?
+	A. Vitória
+	B. São Luís
+	C. Macapá
+	D. Rio Branco
+	E. Rio de Janeiro
+	F. São Paulo
+	G. João Pessoa
+	H. Goiânia
+
+5. Qual é a capital do(e) Piauí (PI)?
+	A. São Luís
+	B. Vitória
+	C. São Paulo
+	D. Belém
+	E. Belo Horizonte
+	F. Rio de Janeiro
+	G. João Pessoa
+	H. Teresina
+
+6. Qual é a capital do(e) Sergipe (SE)?
+	A. Goiânia
+	B. Belém
+	C. Cuiabá
+	D. Aracaju
+	E. Palmas
+	F. São Luís
+	G. Curitiba
+	H. Porto Alegre
+

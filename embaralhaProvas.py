@@ -57,13 +57,14 @@ def gravaArquivo(pasta, arq, info):
         fileArq.write(info)
 
 
-def verificaInputs(msg):
+def verificaInputs(msg, limite):
     '''Verifica se o usuario esta digitando apenas numeros'''
     boolValor = True
     while boolValor:
         valor = input(msg)
         if valor.isnumeric():
-            return int(valor)
+            if int(valor) > 0 and int(valor) <= limite:
+                return int(valor)
 
 
 # lista com todos Estados e Capitais
@@ -104,9 +105,9 @@ while iProg == '1': # loop para rodar aplicação
         camProva = './Prova' # caminho para salvar arquivos da Prova
 
         # input para usuario digitar informações
-        numQuestoes = verificaInputs('Digite quantas questões terá na prova: ')
-        numRespostas = verificaInputs('Digite quantas respostas terá cada questão: ')
-        numProvas = verificaInputs('Digite quantas versões terá de cada prova: ')
+        numQuestoes = verificaInputs('Digite quantas questões terá na prova: ', 27)
+        numRespostas = verificaInputs('Digite quantas respostas terá cada questão: ', 27)
+        numProvas = verificaInputs('Digite quantas versões terá de cada prova: ', 999999)
 
         # cria caminho ou deleta arquivos dentro do diretorio
         criaPasta(camGabarito)
