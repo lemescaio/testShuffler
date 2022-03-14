@@ -56,6 +56,16 @@ def gravaArquivo(pasta, arq, info):
     with open(os.path.join(pasta, arq), 'w') as fileArq:
         fileArq.write(info)
 
+
+def verificaInputs(msg):
+    '''Verifica se o usuario esta digitando apenas numeros'''
+    boolValor = True
+    while boolValor:
+        valor = input(msg)
+        if valor.isnumeric():
+            return int(valor)
+
+
 # lista com todos Estados e Capitais
 capitaisEstados = { 'Acre (AC)': 'Rio Branco',
                     'Amapá (AP)': 'Macapá',
@@ -94,28 +104,9 @@ while iProg == '1': # loop para rodar aplicação
         camProva = './Prova' # caminho para salvar arquivos da Prova
 
         # input para usuario digitar informações
-        strNumQuestoes = input('Digite quantas questões terá na prova: ')
-        strNumRespostas = input('Digite quantas respostas terá cada questão: ')
-        strNumProvas = input('Digite quantas versões terá de cada prova: ')
-
-        # validação das informações digitadas
-        if strNumQuestoes.isnumeric():
-            numQuestoes = int(strNumQuestoes)
-        else:
-            print('Valor ínválido, digite um número inteiro.')
-            break
-
-        if strNumRespostas.isnumeric():
-            numRespostas = int(strNumRespostas)
-        else:
-            print('Valor ínválido, digite um número inteiro.')
-            break
-
-        if strNumProvas.isnumeric():
-            numProvas = int(strNumProvas)
-        else:
-            print('Valor ínválido, digite um número inteiro.')
-            break
+        numQuestoes = verificaInputs('Digite quantas questões terá na prova: ')
+        numRespostas = verificaInputs('Digite quantas respostas terá cada questão: ')
+        numProvas = verificaInputs('Digite quantas versões terá de cada prova: ')
 
         # cria caminho ou deleta arquivos dentro do diretorio
         criaPasta(camGabarito)
