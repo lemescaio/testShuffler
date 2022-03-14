@@ -6,63 +6,51 @@ Período:
 
 			Quiz - Estados e Capitais (Versão 7)
 
-1. Qual é a capital do(e) Ceará (CE)?
-	A. Teresina
-	B. Natal
-	C. Fortaleza
-	D. Recife
-	E. Rio de Janeiro
-	F. Macapá
-	G. Brasília
-	H. Belo Horizonte
-
-2. Qual é a capital do(e) Piauí (PI)?
-	A. Teresina
-	B. Belo Horizonte
-	C. Rio de Janeiro
-	D. São Paulo
-	E. São Luís
-	F. Belém
-	G. Vitória
-	H. João Pessoa
-
-3. Qual é a capital do(e) Espírito Santo (ES)?
-	A. Vitória
-	B. Manaus
-	C. Campo Grande
+1. Qual é a capital do(e) Espírito Santo (ES)?
+	A. Natal
+	B. Cuiabá
+	C. Vitória
 	D. Brasília
-	E. Palmas
-	F. Porto Velho
-	G. Maceió
-	H. São Paulo
 
-4. Qual é a capital do(e) Roraima (RR)?
-	A. Belém
-	B. Porto Alegre
-	C. Macapá
-	D. São Luís
-	E. Fortaleza
-	F. Natal
-	G. Aracaju
-	H. Boa Vista
-
-5. Qual é a capital do(e) Amapá (AP)?
-	A. Goiânia
-	B. Macapá
-	C. São Paulo
+2. Qual é a capital do(e) Paraíba (PB)?
+	A. Macapá
+	B. Vitória
+	C. Porto Alegre
 	D. João Pessoa
-	E. Rio Branco
-	F. Vitória
-	G. Rio de Janeiro
-	H. São Luís
 
-6. Qual é a capital do(e) Sergipe (SE)?
-	A. Goiânia
-	B. Porto Alegre
-	C. Cuiabá
+3. Qual é a capital do(e) Rio de Janeiro (RJ)?
+	A. Rio de Janeiro
+	B. Fortaleza
+	C. Salvador
+	D. Porto Velho
+
+4. Qual é a capital do(e) Mato Grosso do Sul (MS)?
+	A. Curitiba
+	B. João Pessoa
+	C. Campo Grande
+	D. Belém
+
+5. Qual é a capital do(e) Santa Catarina (SC)?
+	A. Manaus
+	B. Belo Horizonte
+	C. Curitiba
+	D. Florianópolis
+
+6. Qual é a capital do(e) Piauí (PI)?
+	A. Teresina
+	B. Goiânia
+	C. Fortaleza
+	D. Cuiabá
+
+7. Qual é a capital do(e) Bahia (BA)?
+	A. Boa Vista
+	B. Salvador
+	C. João Pessoa
 	D. Palmas
-	E. Belém
-	F. São Luís
-	G. Curitiba
-	H. Aracaju
+
+8. Qual é a capital do(e) Sergipe (SE)?
+	A. Aracaju
+	B. Florianópolis
+	C. Recife
+	D. São Luís
 

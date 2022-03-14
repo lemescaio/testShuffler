@@ -6,63 +6,51 @@ Período:
 
 			Quiz - Estados e Capitais (Versão 4)
 
-1. Qual é a capital do(e) Espírito Santo (ES)?
-	A. Maceió
-	B. Campo Grande
-	C. Palmas
-	D. Manaus
-	E. Brasília
-	F. Porto Velho
-	G. São Paulo
-	H. Vitória
+1. Qual é a capital do(e) Paraíba (PB)?
+	A. João Pessoa
+	B. Porto Alegre
+	C. Macapá
+	D. Vitória
 
-2. Qual é a capital do(e) Piauí (PI)?
-	A. Rio de Janeiro
-	B. São Paulo
-	C. João Pessoa
-	D. Belo Horizonte
-	E. Vitória
-	F. Belém
-	G. Teresina
-	H. São Luís
+2. Qual é a capital do(e) Santa Catarina (SC)?
+	A. Belo Horizonte
+	B. Florianópolis
+	C. Manaus
+	D. Curitiba
 
-3. Qual é a capital do(e) Sergipe (SE)?
-	A. Curitiba
-	B. Belém
-	C. Palmas
-	D. São Luís
-	E. Cuiabá
-	F. Porto Alegre
-	G. Aracaju
-	H. Goiânia
+3. Qual é a capital do(e) Espírito Santo (ES)?
+	A. Natal
+	B. Vitória
+	C. Brasília
+	D. Cuiabá
 
-4. Qual é a capital do(e) Amapá (AP)?
-	A. Goiânia
-	B. Macapá
-	C. Rio de Janeiro
-	D. São Paulo
-	E. João Pessoa
-	F. São Luís
-	G. Vitória
-	H. Rio Branco
-
-5. Qual é a capital do(e) Roraima (RR)?
-	A. Macapá
-	B. Aracaju
+4. Qual é a capital do(e) Sergipe (SE)?
+	A. Recife
+	B. Florianópolis
 	C. São Luís
-	D. Natal
-	E. Fortaleza
-	F. Belém
-	G. Boa Vista
-	H. Porto Alegre
+	D. Aracaju
 
-6. Qual é a capital do(e) Ceará (CE)?
+5. Qual é a capital do(e) Rio de Janeiro (RJ)?
+	A. Rio de Janeiro
+	B. Salvador
+	C. Porto Velho
+	D. Fortaleza
+
+6. Qual é a capital do(e) Mato Grosso do Sul (MS)?
+	A. João Pessoa
+	B. Belém
+	C. Curitiba
+	D. Campo Grande
+
+7. Qual é a capital do(e) Piauí (PI)?
 	A. Fortaleza
-	B. Recife
-	C. Belo Horizonte
-	D. Brasília
-	E. Rio de Janeiro
-	F. Macapá
-	G. Teresina
-	H. Natal
+	B. Teresina
+	C. Goiânia
+	D. Cuiabá
+
+8. Qual é a capital do(e) Bahia (BA)?
+	A. Salvador
+	B. Palmas
+	C. Boa Vista
+	D. João Pessoa
 

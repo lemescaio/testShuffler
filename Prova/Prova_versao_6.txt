@@ -6,63 +6,51 @@ Período:
 
 			Quiz - Estados e Capitais (Versão 6)
 
-1. Qual é a capital do(e) Roraima (RR)?
+1. Qual é a capital do(e) Piauí (PI)?
+	A. Teresina
+	B. Cuiabá
+	C. Fortaleza
+	D. Goiânia
+
+2. Qual é a capital do(e) Rio de Janeiro (RJ)?
+	A. Fortaleza
+	B. Porto Velho
+	C. Salvador
+	D. Rio de Janeiro
+
+3. Qual é a capital do(e) Mato Grosso do Sul (MS)?
 	A. Belém
-	B. Boa Vista
-	C. Natal
-	D. Aracaju
-	E. Fortaleza
-	F. Macapá
-	G. São Luís
-	H. Porto Alegre
-
-2. Qual é a capital do(e) Piauí (PI)?
-	A. João Pessoa
-	B. Belo Horizonte
-	C. Belém
-	D. São Luís
-	E. São Paulo
-	F. Vitória
-	G. Rio de Janeiro
-	H. Teresina
-
-3. Qual é a capital do(e) Amapá (AP)?
-	A. Goiânia
-	B. Vitória
-	C. São Paulo
+	B. Curitiba
+	C. Campo Grande
 	D. João Pessoa
-	E. Rio Branco
-	F. Rio de Janeiro
-	G. Macapá
-	H. São Luís
 
-4. Qual é a capital do(e) Ceará (CE)?
-	A. Belo Horizonte
-	B. Teresina
-	C. Macapá
-	D. Brasília
-	E. Rio de Janeiro
-	F. Recife
-	G. Fortaleza
-	H. Natal
-
-5. Qual é a capital do(e) Sergipe (SE)?
-	A. Aracaju
-	B. Palmas
-	C. Curitiba
+4. Qual é a capital do(e) Paraíba (PB)?
+	A. João Pessoa
+	B. Macapá
+	C. Vitória
 	D. Porto Alegre
-	E. São Luís
-	F. Cuiabá
-	G. Goiânia
-	H. Belém
 
-6. Qual é a capital do(e) Espírito Santo (ES)?
-	A. Palmas
-	B. Brasília
-	C. Porto Velho
-	D. Campo Grande
-	E. Vitória
-	F. Manaus
-	G. Maceió
-	H. São Paulo
+5. Qual é a capital do(e) Espírito Santo (ES)?
+	A. Vitória
+	B. Cuiabá
+	C. Brasília
+	D. Natal
+
+6. Qual é a capital do(e) Santa Catarina (SC)?
+	A. Curitiba
+	B. Belo Horizonte
+	C. Florianópolis
+	D. Manaus
+
+7. Qual é a capital do(e) Bahia (BA)?
+	A. Boa Vista
+	B. Palmas
+	C. Salvador
+	D. João Pessoa
+
+8. Qual é a capital do(e) Sergipe (SE)?
+	A. Florianópolis
+	B. Aracaju
+	C. São Luís
+	D. Recife
 

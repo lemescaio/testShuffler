@@ -1,4 +1,3 @@
-from operator import index
 import random
 import string
 import os
@@ -65,7 +64,8 @@ def verificaInputs(msg, limite):
         if valor.isnumeric():
             if int(valor) > 0 and int(valor) <= limite:
                 return int(valor)
-
+        else:
+            print('Valor inválido\n')
 
 # lista com todos Estados e Capitais
 capitaisEstados = { 'Acre (AC)': 'Rio Branco',
@@ -99,14 +99,14 @@ capitaisEstados = { 'Acre (AC)': 'Rio Branco',
 # variavel para iniciar a aplicação
 iProg = '1'
 while iProg == '1': # loop para rodar aplicação
-    iProg = input('Digite 1 para geras as versões das provas ou qualquer tecla para sair: ')
+    iProg = input('Digite 1 para gerar as versões das provas ou qualquer tecla para sair: ')
     if iProg == '1':
         camGabarito = './Gabarito' # caminho para salvar arquivos do Gabarito
         camProva = './Prova' # caminho para salvar arquivos da Prova
 
         # input para usuario digitar informações
         numQuestoes = verificaInputs('Digite quantas questões terá na prova: ', 27)
-        numRespostas = verificaInputs('Digite quantas respostas terá cada questão: ', 27)
+        numRespostas = verificaInputs('Digite quantas respostas terá cada questão: ', 26)
         numProvas = verificaInputs('Digite quantas versões terá de cada prova: ', 999999)
 
         # cria caminho ou deleta arquivos dentro do diretorio

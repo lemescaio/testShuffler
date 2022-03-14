@@ -1,0 +1,56 @@
+Nome:
+
+Data:
+
+Período:
+
+			Quiz - Estados e Capitais (Versão 8)
+
+1. Qual é a capital do(e) Bahia (BA)?
+	A. João Pessoa
+	B. Palmas
+	C. Boa Vista
+	D. Salvador
+
+2. Qual é a capital do(e) Santa Catarina (SC)?
+	A. Curitiba
+	B. Florianópolis
+	C. Belo Horizonte
+	D. Manaus
+
+3. Qual é a capital do(e) Espírito Santo (ES)?
+	A. Cuiabá
+	B. Vitória
+	C. Brasília
+	D. Natal
+
+4. Qual é a capital do(e) Mato Grosso do Sul (MS)?
+	A. Belém
+	B. João Pessoa
+	C. Curitiba
+	D. Campo Grande
+
+5. Qual é a capital do(e) Sergipe (SE)?
+	A. São Luís
+	B. Recife
+	C. Aracaju
+	D. Florianópolis
+
+6. Qual é a capital do(e) Paraíba (PB)?
+	A. João Pessoa
+	B. Macapá
+	C. Porto Alegre
+	D. Vitória
+
+7. Qual é a capital do(e) Rio de Janeiro (RJ)?
+	A. Salvador
+	B. Rio de Janeiro
+	C. Fortaleza
+	D. Porto Velho
+
+8. Qual é a capital do(e) Piauí (PI)?
+	A. Cuiabá
+	B. Goiânia
+	C. Fortaleza
+	D. Teresina
+
